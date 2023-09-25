@@ -14,7 +14,7 @@ class FirstProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
-		logger.info("it's a test case logger");
+		logger.info("it's a test case logger`");
 		assertEquals(true,true);
 	}
 
