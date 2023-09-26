@@ -13,6 +13,7 @@ public class FirstProjectApplication implements CommandLineRunner {
     public static void main(String[] args) {
         logger.info("it's a continous integration job");
         SpringApplication.run(FirstProjectApplication.class, args);
+        //dinesh
     }
 
     @Override
