@@ -18,5 +18,7 @@ public class FirstProjectApplication implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         logger.info("it;s my second logger");
+        logger.info("Its my second logger" +
+                "");
     }
 }
