@@ -20,7 +20,9 @@ public class FirstProjectApplication implements CommandLineRunner {
         logger.info("it;s my second logger");
         logger.info("it;s my third logger");
         logger.info("it;s my fourth logger");
-        logger.info("Its my second logger" +
-                "");
+        logger.info("Its my second logger" );
+        logger.info("Its my Fifth logger" );
+        logger.info("Its my sixth logger" );
+        logger.info("Its my seventh logger" );
     }
 }
